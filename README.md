@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tharindu Kariyawasam</h1>
-<h3 align="center">I am a student from SLIIT in Sri Lanka.</h3>
+<h3 align="center">I am a IT student.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindukariyawasam03&label=Profile%20views&color=0e75b6&style=flat" alt="tharindukariyawasam03" /> </p>
 
 ---
 
 - 🌱 I’m currently learning **Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 📫 How to reach me **tharindukariyawasam.tds03@gmail.com**
 
