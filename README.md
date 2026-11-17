@@ -29,19 +29,16 @@ I'm a third-year Data Science undergraduate at **SLIIT**, passionate about Machi
 
 ---
 
-### 🚀 Featured Projects
-
-- 🎓 **Student Performance Prediction** – Machine Learning and Academic Risk Identification.
-- 🚕 **NYC Taxi Data Warehouse** – ETL, SQL Server, Star Schema and Power BI.
-- ✈️ **Airline Ticket Price Prediction** – Random Forest Regression.
-- 🔐 **Password Strength Predictor** – Machine Learning and TF-IDF.
-
----
-
 ### 🔥 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduKariyawasam03&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduKariyawasam03&theme=dark&hide_border=true&background=0D1117" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduKariyawasam03&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8" />
 </p>
 
 ---
@@ -55,7 +52,7 @@ I'm a third-year Data Science undergraduate at **SLIIT**, passionate about Machi
   <a href="mailto:tharindukariyawasam.tds03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/tharindu_ktds">
+  <a href="https://instagram.com/_tharindu_kariyawasam">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
