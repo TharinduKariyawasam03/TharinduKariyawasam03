@@ -3,13 +3,13 @@
 
 ### 🎓 Data Science Undergraduate | Machine Learning | AI | Data Analytics
 
-I'm a third-year Data Science undergraduate at **SLIIT**, passionate about Machine Learning, Artificial Intelligence and building data-driven solutions to real-world problems.
+I'm a third year Data Science undergraduate at **SLIIT**, passionate about Machine Learning, Artificial Intelligence and building data-driven solutions to real-world problems.
 
 - 🌱 Currently exploring Machine Learning, Deep Learning and AI.
 - 🔭 Working on Data Science and Machine Learning projects.
-- 🎓 BSc (Hons) in Information Technology – Data Science Specialization.
+- 🎓 BSc (Hons) in Information Technology - Data Science Specialization.
 - 📫 Email: **tharindukariyawasam.tds03@gmail.com**
-- ⚡ Fun fact: Call me Tharindu!
+- ⚡ Call me Tharindu!
 
 ---
 
@@ -35,10 +35,10 @@ I'm a third-year Data Science undergraduate at **SLIIT**, passionate about Machi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduKariyawasam03&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
-### 💻 Most Used Languages
+<h3>💻 Most Used Languages</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduKariyawasam03&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduKariyawasam03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
