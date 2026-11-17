@@ -38,8 +38,9 @@ I'm a third year Data Science undergraduate at **SLIIT**, passionate about Machi
 <h3>💻 Most Used Languages</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduKariyawasam03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharinduKariyawasam03&theme=github_dark" alt="Most Used Languages" />
 </p>
+
 
 ---
 
